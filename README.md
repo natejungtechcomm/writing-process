@@ -26,11 +26,13 @@ New document types can be added as additional skills; they only need to set the 
 
 ## Installing
 
-Drag the `.plugin` file into Claude Cowork, or install via Claude Code:
+Install directly from this repo with Claude Code:
 
 ```
-claude plugin install writing-process
+claude plugin install najung/writing-process
 ```
+
+Or, once it's listed on Anthropic's plugin directory, install it from **claude.com/plugins** in Claude Cowork.
 
 ## Author & license
 
