@@ -1,0 +1,27 @@
+{
+  "name": "writing-process",
+  "displayName": "Writing Process",
+  "version": "0.6.0",
+  "description": "A staged writing workflow for any written or spoken composition, however big or small - essays, proposals, cover letters, speeches, and more - Prewriting, Writing, Postwriting - built on the process described in 'The Process of Generative AI Writing' by Nathan A. Jung.",
+  "author": {
+    "name": "Nathan A. Jung"
+  },
+  "license": "MIT",
+  "category": "Writing & content",
+  "source": {
+    "source": "github",
+    "repo": "najung/writing-process"
+  },
+  "keywords": [
+    "writing",
+    "editing",
+    "proposals",
+    "cover-letters",
+    "speeches",
+    "presentations",
+    "workflow",
+    "rhetorical-situation",
+    "prewriting",
+    "postwriting"
+  ]
+}
