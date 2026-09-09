@@ -18,9 +18,11 @@ Each part has an explicit checkpoint - Claude does not advance without your appr
 
 Any genre works with the shared `workflow` skill on its own - it has sensible generic defaults for invention, research, and structure built in. A few genres have their own tuned preset skill on top of that:
 
-- `proposal` - business/project proposals (full rhetorical and research depth, Problem-Orientation structure by default, executive summary required)
-- `cover-letter` - job application cover letters (lighter research, condensed structure, no separate summary)
-- `speech` - speeches, talks, and prepared oral presentations - keynotes, toasts, conference talks, remarks (live-delivery-specific rhetorical situation, Story Spine or classical oration structure, read-aloud/timing check instead of an executive summary)
+1. Proposal - research-based project proposals for business, engineering, etc.
+
+2. Cover-letter - traditional job application cover letters
+
+3. Speech - keynotes, conference talks, technical presentations, etc.
 
 New document types can be added as additional skills; they only need to set the depth and structural defaults for that document, since the three-part process itself is shared. Adapting an *already-finished* document into a spoken pitch or slide deck (rather than composing the speech itself from scratch) is handled by the optional `extend` skill instead.
 
