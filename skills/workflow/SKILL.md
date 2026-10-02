@@ -1,7 +1,6 @@
 ---
 name: workflow
-description: Use when the user wants help writing or composing any piece, written or spoken, of more than a couple sentences - an essay, article, blog post, memo, speech, proposal, cover letter, or similar. Applies no matter how small, casual, or low-stakes the piece seems - a quick essay counts exactly as much as a formal proposal; perceived stakes or genre is never a reason to draft directly instead of loading this skill. Governs the staged Prewriting, Writing, Postwriting process shared by every document-specific skill in this plugin, and applies on its own for any genre without a dedicated skill. Triggers on phrases like "help me write X," "I need help writing X," "let's draft X," "let's write a cover letter," "I need to prepare a speech." Implements the process from Nathan A. Jung's "The Process of Generative AI Writing."
----
+description: Applies the process from Nathan A. Jung's "The Process of Generative AI Writing" to writing across all genres - essays, articles, blog posts, memos, speeches, proposals, cover letters, and more. Following the book, workflow helps the writer navigate the three stages - prewriting, Writing, postwriting - shared by every document type. Intentionally designed to stagger the writing process and retain writerly autonomy and voice. Triggers on phrases like "help me write X," "I need help writing X," "let's draft X," "let's write a cover letter," "I need to prepare a speech."
 
 # Staged Writing Workflow
 
