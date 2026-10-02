@@ -1,7 +1,7 @@
 ---
 Name: workflow
-
 Description: applies the process from Nathan A. Jung's "The Process of Generative AI Writing" to writing across all genres - essays, articles, blog posts, memos, speeches, proposals, cover letters, and more. Following the book, workflow helps the writer navigate the three stages - prewriting, Writing, postwriting - shared by every document type. Intentionally designed to stagger the writing process and retain writerly autonomy and voice. Triggers on phrases like "help me write X," "I need help writing X," "let's draft X," "let's write a cover letter," "I need to prepare a speech."
+---
 
 # Staged Writing Workflow
 
