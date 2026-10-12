@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "writing-process",
+  "description": "Nathan A. Jung's Writing Process plugin, based on 'The Process of Generative AI Writing'.",
+  "owner": {
+    "name": "Nathan A. Jung"
+  },
+  "plugins": [
+    {
+      "name": "writing-process",
+      "description": "A staged writing workflow for any written or spoken composition, however big or small - essays, proposals, cover letters, speeches, and more - Prewriting, Writing, Postwriting - built on the process described in 'The Process of Generative AI Writing' by Nathan A. Jung.",
+      "version": "0.6.0",
+      "author": {
+        "name": "Nathan A. Jung"
+      },
+      "source": "./",
+      "category": "writing",
+      "homepage": "https://github.com/natejungtechcomm/writing-process"
+    }
+  ]
+}

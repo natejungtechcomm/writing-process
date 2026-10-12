@@ -31,7 +31,15 @@ New document types can be added as additional skills; they only need to set the 
 Install directly from this repo with Claude Code:
 
 ```
-claude plugin install natejungtechcomm/writing-process
+/plugin marketplace add natejungtechcomm/writing-process
+/plugin install writing-process@writing-process
+```
+
+Or from your terminal:
+
+```
+claude plugin marketplace add natejungtechcomm/writing-process
+claude plugin install writing-process@writing-process
 ```
 
 Or, once it's listed on Anthropic's plugin directory, install it from **claude.com/plugins** in Claude Cowork.
